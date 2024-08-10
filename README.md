@@ -4,18 +4,12 @@
 
 This repository contains the source code for a web-based application that predicts breast cancer based on user input. The app is built using Streamlit and utilizes machine learning algorithms to provide accurate predictions.
 
-## Features
-
-- **User-Friendly Interface**: Simple and intuitive interface for users to input data and receive predictions.
-- **Real-Time Predictions**: Instantaneous predictions based on user inputs.
-- **Machine Learning**: Utilizes a trained machine learning model to predict the likelihood of breast cancer.
-- **Data Visualization**: Visual representation of input data and prediction outcomes.
-
 ## How It Works
 
-1. **Input Data**: Users enter relevant medical information into the web app.
+1. **User Input**: Users adjust measurements using sliders to input relevant medical information into the web app.
 2. **Model Prediction**: The app processes the input through a trained machine learning model.
-3. **Prediction Display**: The likelihood of breast cancer is displayed, along with visual aids for better understanding.
+3. **Prediction Display**: The app displays whether the prediction is benign or malignant, along with a scatter plot and polar chart for visual representation.
+
 
 ## Technologies Used
 
