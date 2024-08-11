@@ -17,24 +17,8 @@ This repository contains the source code for a web-based application that predic
 - **Python**: Core programming language used.
 - **Scikit-learn**: Machine learning library for model training and prediction.
 - **Pandas**: Data manipulation and analysis.
-- **Matplotlib/Seaborn**: For visualizing data.
+- **Plotly**: For visualizing data.
 
-## Installation
-
-To run this app locally, follow these steps:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/iamsyahirah/streamlit-cancer-prediction-ML
-2. Navigate to the project directory:
-   ```bash
-   cd breast-cancer-prediction-app
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-4. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
 
 ## License
 
