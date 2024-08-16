@@ -28,3 +28,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) for providing the dataset used in training the model.
 - The Streamlit community for their support and contributions.
+
+## Screenshot
+
+![Cancer-Prediction-·-Streamlit2](https://github.com/user-attachments/assets/68f0505b-bea8-4795-8f09-fd7ade75c613)
+
